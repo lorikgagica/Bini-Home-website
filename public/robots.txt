@@ -1,0 +1,3 @@
+User-agent: *
+# Preview: indexing disabled until approved content is in place.
+Disallow: /
